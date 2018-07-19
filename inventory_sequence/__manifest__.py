@@ -12,8 +12,7 @@
     'license': 'AGPL-3',
     'category': 'Account',
     'version': '10.0.1',
-    'depends': ['base','l10n_cl_base',
-                ],
+    'depends': ['base'],
     'data': [
          'data/ir_sequence.xml',
          'views/stock_inventory.xml',
